@@ -1,0 +1,23 @@
+input {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+div {
+    margin: 15px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.bar {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.9);
+}
+
+.search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
